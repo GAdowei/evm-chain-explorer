@@ -1,0 +1,29 @@
+{
+  "chains": [
+   { "id": 1, "name": "Ethereum", "symbol": "ETH", "base_url": "https://etherscan.io/"},
+   {
+    "id": 2,
+    "name": "Arbitrum",
+    "symbol": "ARB",
+    "base_url": "https://arbiscan.io/"
+   },
+   {
+    "id": 3,
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "base_url": "https://polygonscan.com/"
+   },
+   {
+    "id": 4,
+    "name": "Goerli",
+    "symbol": "GTH",
+    "base_url": "https://goerli.etherscan.io/"
+   },
+   {
+    "id": 5,
+    "name": "Scroll",
+    "symbol": "SCRL",
+    "base_url": "https://blockscout.scroll.io/"
+   }
+  ]
+}
